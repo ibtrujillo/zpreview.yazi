@@ -13,8 +13,8 @@ first show their part number.
 ## Installation
 
 ```sh
-ya pkg add ibtrujillo/zpreview.yazi
-ya pkg add ibtrujillo/zeppelin.yazi
+ya pkg add ibtrujillo/zpreview
+ya pkg add ibtrujillo/zeppelin
 ```
 
 ## Usage
